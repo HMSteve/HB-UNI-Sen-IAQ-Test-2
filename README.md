@@ -11,7 +11,7 @@ Aenderung gegenueber der ersten Version (HB-UNI-Sen-IAQ-Test) ist die Nutzung de
 - Es wird neben dem BME680 ein SHT31 fuer Temperatur und Feuchte, ein BMP280 fuer Luftdruck und ein SGPC3 fuer VOC genutzt.
 - Das rudimentaere Addon stellt die Werte aller Sensoren in der CCU bereit, um hier existierendes Logging fuer die Zeitreihengewinnung zwecks anschliessenden Vergleiches der Sensorverhalten nutzen zu koennen.
 
-Da SGPC3 Breakout Boards im Standardformat mit I2C-Schnittstelle nicht am Markt zu finden waren, habe ich ein eigenes erstellt (Veroeffentlichung folgt).
+Da SGPC3 Breakout Boards im Standardformat mit I2C-Schnittstelle nicht am Markt zu finden waren, habe ich ein eigenes erstellt: [SGPC3 Breakout Board](https://github.com/HMSteve/PCBs/tree/master/SGPC3_BreakoutBoard).
 
 
 
